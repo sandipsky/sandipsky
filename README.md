@@ -1,5 +1,5 @@
-<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-, I'm Ural 👦‍💻</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hello World! 
+, I'm Sandip 👦‍💻</h1>
 <br>
 
 I am an Undergraduate Student
@@ -11,7 +11,7 @@ pursuing my B.CSIT from Academia International College, Gwarko
 - ✍ You can find my resume here [Resume]
 - 🌱 I’m currently learning Django Web Development
 - 👯 I’m looking to collaborate on open source
-- 📫 Reach out to me: shresthaural100@gmail.com
+- 📫 Reach out to me: sandipshakya75@gmail.com
 
 <br>
 
