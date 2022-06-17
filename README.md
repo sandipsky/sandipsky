@@ -29,6 +29,7 @@ pursuing my B.CSIT from Academia International College, Gwarko
 ### 🧰 Frameworks
 <p>    
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://icon-icons.com/downloadimage.php?id=130645&root=2107/PNG/512/&file=file_type_django_icon_130645.png" height="48px" width="48px"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" height="48px" width="48px"/></a>    
 </p>
 
 ### 💻 Software, Tools and OS
@@ -51,12 +52,16 @@ pursuing my B.CSIT from Academia International College, Gwarko
 ### 📊 My Github Stats:
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uralsth&theme=ads-juicy-fresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandipsky&show_icons=true&theme=dark&locale=en&layout=compact" alt="sandipsky" /></p>
+
 <br>
-<p align='left'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uralsth&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="chandan-g-bhagat" />  
-</p>  
-<br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipsky&theme=dark" alt="sandipsky" /></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandipsky&show_icons=true&theme=dark&locale=en" alt="sandipsky" /></p>
+<br>
 
 <hr>
 
