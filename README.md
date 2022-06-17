@@ -44,7 +44,8 @@ pursuing my B.CSIT from Academia International College, Gwarko
 
 ### I am currently listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kohux1jvi7ze8o2lc2mqe49uz&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313hsrznjsqk4nmkkidldrbwebbu&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313hsrznjsqk4nmkkidldrbwebbu&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <br>
 
 <hr>
@@ -67,5 +68,7 @@ pursuing my B.CSIT from Academia International College, Gwarko
 
 ### Lets connect through:
 <a href="https://www.facebook.com/s4sandipsky/"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png"/></a>
-<a href="https://twitter.com/gooner_ural"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://www.instagram.com/sandipsky1/"><img src="https://img.icons8.com/fluency/48/undefined/instagram-new.png"/></a>
+<a href="https://twitter.com/SandipSky1"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://www.youtube.com/channel/UC7QBh73Rm2PYQs8WFPV1ELg"><img src="https://img.icons8.com/color/48/undefined/youtube-play.png"/></a>
 <a href="https://www.linkedin.com/in/sandip-shakya-8230b91a5/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
