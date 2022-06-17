@@ -10,7 +10,6 @@ pursuing my B.CSIT from Academia International College, Gwarko
 
 - ✍ You can find my resume here [Resume]
 - 🌱 I’m currently learning Django Web Development
-- 👯 I’m looking to collaborate on open source
 - 📫 Reach out to me: sandipshakya75@gmail.com
 
 <br>
@@ -18,13 +17,21 @@ pursuing my B.CSIT from Academia International College, Gwarko
 
 ### 🚀 My Tech Stack:
 
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+### 👨‍💻 Programming Languages
+
+<p>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+</p>
+
+### 🧰 Frameworks
+
+
+<p align="left">
+    
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://icon-icons.com/downloadimage.php?id=130645&root=2107/PNG/512/&file=file_type_django_icon_130645.png" height="48px" width="48px"/> </a>
 </p>
 
@@ -47,6 +54,6 @@ pursuing my B.CSIT from Academia International College, Gwarko
 <br/>
 
 ### Lets connect through:
-<a href="https://www.facebook.com/tewaryb/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
+<a href="https://www.facebook.com/s4sandipsky/"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png"/></a>
 <a href="https://twitter.com/gooner_ural"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href="https://www.linkedin.com/in/ural-shrestha-20196723a/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/sandip-shakya-8230b91a5/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
