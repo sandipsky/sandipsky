@@ -29,10 +29,8 @@ pursuing my B.CSIT from Academia International College, Gwarko
 ### 🧰 Frameworks
 
 
-<p align="left">
-    
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://icon-icons.com/downloadimage.php?id=130645&root=2107/PNG/512/&file=file_type_django_icon_130645.png" height="48px" width="48px"/> </a>
+<p>    
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://icon-icons.com/downloadimage.php?id=130645&root=2107/PNG/512/&file=file_type_django_icon_130645.png" height="48px" width="48px"/> </a>
 </p>
 
 <br>
