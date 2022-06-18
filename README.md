@@ -47,7 +47,9 @@
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313hsrznjsqk4nmkkidldrbwebbu&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
 
-#####################################[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313hsrznjsqk4nmkkidldrbwebbu&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<!--     [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313hsrznjsqk4nmkkidldrbwebbu&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
+    
+<p align="center"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=313hsrznjsqk4nmkkidldrbwebbu&cover_image=false&theme=default"></p>
 <br>
 
 <hr>
